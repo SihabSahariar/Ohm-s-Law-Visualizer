@@ -6,14 +6,14 @@ I'm doing my Undergrad in CSE at BRAC University. In Fall 2021, I'm doing Physic
 
 # How to Run?
 Install these dependecy first. 
-'''
+```
 pip install PyQt5
 pip install pyqtgraph
-'''
+```
 now run the main file.
-'''
+```
 python main.py
-'''
+```
 
 # Screenshot
 <img src="ss/1.png">
